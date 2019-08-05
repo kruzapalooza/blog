@@ -5,10 +5,49 @@ date:   "2019-08-03 12:00:00 -0500"
 categories: IT, activism, indivisbible, resist, politics, NetNeutrality, InternetFreedom
 ---
 
-Senator Scott, 
+I won't spoil the end of Stranger Things season 3 for you. Let's just one of the heroes needed critical information from his HAM radio girlfriend, and as extortion, I mean payment, had to sing "The Neverending Story" song over the airwaves. 		
 
-I received your response in regards to my email on Net Neutrality. As an ISP customer, former network tester, and South Carolina voter, I could not disagree with you more. Fundamentally this an issue of trust, or frankly, lack thereof. Based on their history, I do not trust the ISPs. I do not trust the self-serving and monopolistic "free market" they claim to champion. I am very much anti-trust, and based on their history, my mistrust is very well-earned. 
+[Dustin and Susie Neverending Story Duet]( https://www.youtube.com/watch?v=O5HQ1sZseKg#t=1m33s )
+		
+So, what made this song such a hit that Netflix felt the need to resurrect this particular song? I think, in large part, it's because the near-perfect use of a minor-third modulation gives the song a major boost. Here's the original song, by the way:	
 
-ISPs already have a terrible record. Fortune magazine and the non-partisan Consumer Reports found customer satisfaction poor, and getting worse. Yet, the ISPs fought vigorously for more *lax* FCC rules governing them. The FTC is not technically savvy, not proactive, barely reactive, and ill-equiped to handle IT oversight of any kind. 
+[Neverending Story Original Song]( https://www.youtube.com/watch?v=Gf1WT8VEZxk#t=0m38s )
 
-[The Cable TV Industry Is Getting Even Less Popular]( http://fortune.com/2017/05/25/cable-tv-comcast-verizon/ )
+At "Make Believe," the song modulates a minor third from C-major to Eb-major, and uses the common tone G to do it.			
+			
+The song begins in C major,				
+And modulates to Eb major, landing on G.			
+			
+G is a common tone between C major and Eb major. Think of a common tone as an easy way to pivot between two keys.			
+			
+Play on piano:	C, F, G, C,    C, F, G, Eb		
+So the first time, we have a plain old V-I authenticate cadence from G to C. But the second time, we add a cool surprise with an Eb major instead of a C major.			
+			
+All we had to do get that cool key change was pick two chords right next to each other, G and Eb, with one common tone, in this case G.			
+Play C, Eb, 			
+			
+Note there are actually at least four chords here we could pick that have a common tone of G:			
+<Play> : G, C, c-min, Eb			
+This is a form of Modal Borrowing. C-major and C-minor are called Parallel keys. All four chords are from either C-major, or C-minor, but not both. But you can play any one right after the other because of that pivot on the common tone Gg.			
+			
+How would it sound without modulation?			
+<play>			
+			
+Not sucky, but that harmonic coloring is gone.			
+			
+OTHER SONGS:			
+
+[Put a little Birdhouse in Your Soul]( https://www.youtube.com/watch?v=NhjSzjoU7OQ#t=0m33s )
+
+Lonely is the night			
+
+The Power of Love
+
+[Power of Love]( https://www.youtube.com/watch?v=Y8HOfcYWZoo#t=2m38s )
+
+Not. That. One. This one...
+
+[Power of Love]( https://www.youtube.com/watch?v=KCkgYhtz64U#t=4m07s )
+			
+So How can you use this in your songwriting?
+
